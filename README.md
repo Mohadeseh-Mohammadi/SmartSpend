@@ -1,11 +1,11 @@
-# 🧠 SmartSpend
+# SmartSpend
 
 A smart expense management tool with both CLI and GUI interfaces.
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
-![Version](https://img.shields.io/badge/Version-1.0.0-orange?style=for-the-badge)
-![GUI](https://img.shields.io/bsdge/GUI-PyQr5-brightgreen?style=for-the-badge)
+![Version](https://img.shields.io/badge/Version-2.0.0-orange?style=for-the-badge)
+![GUI](https://img.shields.io/badge/GUI-PyQt5-brightgreen?style=for-the-badge)
 
 ## Features
 
