@@ -36,14 +36,14 @@ python main.py
 
 Screenshots
 
-[Main Menu](screenshots/menu.png)
-[Add Expense](screenshots/add_expense.png)
-[Today's Expenses](screenshots/today.png)
-[Monthly Report](screenshots/monthly_report.png)
-[Statistics](screenshots/statistics.png)
-[Monthly Prediction](screenshots/prediction.png)
-[Unusual Spending Alert](screenshots/alert.png)
-[GUI Showcase](screenshots/gui.gif)
+- [Main Menu](screenshots/menu.png)
+- [Add Expense](screenshots/add_expense.png)
+- [Today's Expenses](screenshots/today.png)
+- [Monthly Report](screenshots/monthly_report.png)
+- [Statistics](screenshots/statistics.png)
+- [Monthly Prediction](screenshots/prediction.png)
+- [Unusual Spending Alert](screenshots/alert.png)
+- [GUI Showcase](screenshots/gui.gif)
 
 Project Structure
 
